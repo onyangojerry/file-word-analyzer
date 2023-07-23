@@ -1,6 +1,5 @@
 # Jerry Onyango
 # CS 51
-# Assign 5
 
 
 def tokenize(sentence):
